@@ -1,0 +1,26 @@
+@media (max-width: 767.99px) {
+    
+    .nav__menu {
+        position: absolute;
+        top: 40px;
+    }
+    
+    .nav__list-link {
+       background-color: #322E41; 
+       width: 100%;
+    }
+    
+    
+    .nav__content {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    
+    .nav__list {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+}
